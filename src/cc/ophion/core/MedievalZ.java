@@ -1,4 +1,4 @@
-package com.cypher.core;
+package cc.ophion.core;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
