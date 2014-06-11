@@ -1,0 +1,5 @@
+author: [CombatTag, Wackyorb]
+description: Ophion custom plugin.
+main: com.cypher.core.MedievalZ
+name: MedievalZ
+version: 0.1
