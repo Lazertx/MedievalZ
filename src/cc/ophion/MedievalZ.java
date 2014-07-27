@@ -1,4 +1,4 @@
-package cc.ophion.core;
+package cc.ophion;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;

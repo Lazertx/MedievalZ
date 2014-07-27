@@ -1,5 +1,5 @@
 authors: [CombatTag, Whackyorb]
 description: Ophion custom plugin.
-main: cc.ophion.core.MedievalZ
+main: cc.ophion.MedievalZ
 name: MedievalZ
 version: 0.1
