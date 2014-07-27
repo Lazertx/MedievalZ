@@ -1,0 +1,6 @@
+abilities:
+  Blasting Wand:
+    radius: 5
+    damage: 5
+    knockback: 5
+
